@@ -206,3 +206,77 @@
  
 10:05:45.875 INFO  - FPGA configured successfully with bitstream "D:/materija/ra194-2016/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
 10:29:11.256 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+09:12:29.944 INFO  - Processing command line option -hwspec D:\materija\ra194-2016\lab5\SDK\SDK_Export\hw\system.xml. 
+09:15:36.199 INFO  - FPGA configured successfully with bitstream "D:/materija/ra194-2016/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+09:59:51.053 INFO  - FPGA configured successfully with bitstream "D:/materija/ra194-2016/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:00:48.724 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:01:56.075 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:02:08.286 WARN  - Terminating existing sessions on processor microblaze_0 
+10:02:09.683 INFO  - FPGA configured successfully with bitstream "D:/materija/ra194-2016/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:04:12.321 WARN  - Terminating existing sessions on processor microblaze_0 
+10:04:13.648 INFO  - FPGA configured successfully with bitstream "D:/materija/ra194-2016/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:05:44.375 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:06:05.579 WARN  - Terminating existing sessions on processor microblaze_0 
+10:06:06.985 INFO  - FPGA configured successfully with bitstream "D:/materija/ra194-2016/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:07:07.699 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:08:24.250 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:08:32.719 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:09:16.758 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:10:57.213 WARN  - Terminating existing sessions on processor microblaze_0 
+10:10:58.561 INFO  - FPGA configured successfully with bitstream "D:/materija/ra194-2016/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:11:47.212 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:16:30.591 ERROR - Unexpected error while launching program. java.lang.RuntimeException: The program file specified in the launch configuration does not exist
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(Unknown Source)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(Unknown Source)
+
+10:17:23.781 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:17:25.080 ERROR - Unexpected error while launching program. java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.stop(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.CPURunSession.terminate(Unknown Source)
+
+10:17:34.826 WARN  - Terminating existing sessions on processor microblaze_0 
+10:17:55.625 WARN  - Terminating existing sessions on processor microblaze_0 
+10:18:30.569 WARN  - Terminating existing sessions on processor microblaze_0 
+10:19:32.902 WARN  - Terminating existing sessions on processor microblaze_0 
+10:19:57.208 WARN  - Terminating existing sessions on processor microblaze_0 
+10:21:12.440 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:21:13.639 ERROR - Unexpected error while launching program. java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.stop(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.CPURunSession.terminate(Unknown Source)
+
+10:21:26.671 WARN  - Terminating existing sessions on processor microblaze_0 
+10:21:35.852 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:22:30.660 INFO  - Processing command line option -hwspec D:\materija\ra194-2016\lab5\SDK\SDK_Export\hw\system.xml. 
+10:22:47.762 INFO  - FPGA configured successfully with bitstream "D:/materija/ra194-2016/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:23:47.347 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:26:35.534 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:26:52.801 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:28:44.683 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:28:56.657 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:29:27.631 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:29:41.510 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:30:10.440 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:30:20.991 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:30:34.746 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:30:44.409 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:31:08.156 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:31:18.830 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:31:41.003 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:32:02.560 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:32:14.728 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:32:18.628 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:32:35.314 WARN  - Terminating existing sessions on processor microblaze_0 
+10:32:36.705 INFO  - FPGA configured successfully with bitstream "D:/materija/ra194-2016/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+10:33:25.517 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:33:42.876 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:33:55.133 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:34:08.217 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:34:27.469 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:34:45.833 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+10:37:50.709 ERROR - Unable to disconnect from existing targets java.lang.NullPointerException
+	at com.xilinx.sdk.targetmanager.internal.json.XMDJSONProcess.issueCommand(Unknown Source)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(Unknown Source)
+
+10:37:50.716 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  

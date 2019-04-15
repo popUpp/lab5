@@ -80,5 +80,6 @@ void print_char(Xuint32 BaseAddress, char ch);
 void clear_screen(Xuint32 BaseAddress);
 void set_foreground_color(Xuint32 BaseAddress, Xuint32 color);
 void set_background_color(Xuint32 BaseAddress, Xuint32 color);
+void draw_square_cycle(Xuint32 BaseAddress, int x, int y);
 
 #endif /** VGA_PERIPH_MEM_H */
